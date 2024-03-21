@@ -1,4 +1,6 @@
-package com.psilva.dailypulse.articles
+package com.psilva.dailypulse.articles.presentation
+
+import com.psilva.dailypulse.articles.app.Article
 
 data class ArticlesState(
     val articles: List<Article> = listOf(),

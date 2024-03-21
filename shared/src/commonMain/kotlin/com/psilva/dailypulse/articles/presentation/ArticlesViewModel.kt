@@ -1,7 +1,7 @@
-package com.psilva.dailypulse.articles
+package com.psilva.dailypulse.articles.presentation
 
 import com.psilva.dailypulse.BaseViewModel
-import kotlinx.coroutines.delay
+import com.psilva.dailypulse.articles.app.ArticlesUseCase
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch

@@ -1,4 +1,4 @@
-package com.psilva.dailypulse.articles
+package com.psilva.dailypulse.articles.app
 
 data class Article (
     val title: String,
